@@ -6,7 +6,7 @@ public class testA {
 		// TODO Auto-generated method stub
 		String te = "f";
 		if(te=="a") {
-			System.out.println("안녕 민호.");
+			System.out.println("안녕 민호22.");
 		}else if(te=="b") {
 			System.out.println("안녕.");
 		}else {
