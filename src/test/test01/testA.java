@@ -8,7 +8,7 @@ public class testA {
 		if(te=="a") {
 			System.out.println("안녕 민호.");
 		}else if(te=="b") {
-			System.out.println("안녕.2");
+			System.out.println("안녕.");
 		}else {
 			System.out.println("안녕아무것도아니야");
 		}
