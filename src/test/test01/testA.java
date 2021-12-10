@@ -10,7 +10,7 @@ public class testA {
 		}else if(te=="b") {
 			System.out.println("안녕.");
 		}else {
-			System.out.println("안녕아무것도아니야test222");
+			System.out.println("안녕아무것도아니야test2223");
 		}
 	}
 
